@@ -25,8 +25,8 @@
 ### Segment drawing
 # A few utility functions to make it easy and re-usable to draw segmented prompts
 
-CURRENT_BG='NONE'
-PRIMARY_FG=blue
+CURRENT_BG=black
+PRIMARY_FG=white
 
 # Characters
 SEGMENT_SEPARATOR="\ue0b0"
